@@ -13,7 +13,7 @@ Web Application Development
 (This assignment will total your expenses and then calculate how much of a percentage they each take.)
 
 ### View Project:
-( https://cab16h.github.io/lesson4_javascript1/)
+(  https://cab16h.github.io/lesson4_javascript1/)
 
 ### Lessons Learned in the Assignment:
 1. (I learned the getelement ID which will bring the data that was entered so it can display it.)
